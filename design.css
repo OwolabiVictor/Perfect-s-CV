@@ -1,0 +1,32 @@
+.logo{
+  height: 150px;
+  margin-top: -70px;
+}
+
+body{
+  background-color: #1E90FF;
+}
+
+p {
+  font-size: 20px;
+}
+
+header{
+  height: 100px;
+  background-color: #1A1A1A;
+  position: sticky;
+
+}
+
+li{
+  font-size: 20px;
+}
+
+.contact{
+  width: 30%;
+}
+
+hr{ border-color: white;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 5%;
